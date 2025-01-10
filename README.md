@@ -1,2 +1,3 @@
 # CODEXINTERN.WEB-DEV
 My first task of internship...
+In this task I have created a toggle function that covert light theme to dark and dark theme to light.
